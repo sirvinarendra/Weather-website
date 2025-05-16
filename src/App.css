@@ -1,0 +1,12 @@
+.webpage{
+  background-color: rgb(209, 247, 237);
+  margin: 35px 450px;
+  padding: 15px 30px;
+  border-radius: 10px;
+}
+body{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.btn{
+  background-color: cadetblue;
+}
